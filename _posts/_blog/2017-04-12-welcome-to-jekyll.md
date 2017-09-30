@@ -117,7 +117,6 @@ To use, see:[Jekyll Spotify Plugin - Doc](http://williamcanin.com/jekyll-spotify
 
 Goodbye! :wink:
 
-{% endpost #9D9D9D %}
 
 
 
