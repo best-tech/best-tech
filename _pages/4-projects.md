@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: Проекты
 sitemap:
   priority: 0.7
   changefreq: 'monthly'
@@ -23,9 +23,9 @@ script: [projects.js]
 permalink: /projects/
 ---
 
-If you wanted to know about my favorite chores, this is the correct page. You find my designs of my own, or participation.
+Здесь о проектах 
 
-##  Major collaborations
+##  Описание
 
 **[Typing Theme](https://github.com/williamcanin/typing-theme)**: Creating themes for Jekyll   
 
