@@ -15,7 +15,7 @@ layout: default
   <div class="row meta" datetime="{{ page.date | date:'%Y-%m-%d' }}">
     <time class="col-sm-6 datetime">
       {% if site.screen.icons.enable == true %}<i class="fa fa-calendar" aria-hidden="true"></i>{% endif %}<span class="text {% if site.screen.icons.enable == true %} tmargin {% endif %}"></span>
-       <!--{% datelang page %}{% include datelang/page %}-->
+       
       </time>
     {% if page.comments and dbase.userdata.disqus.username %}
     <div class="col-sm-6 count-comments">
