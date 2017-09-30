@@ -45,14 +45,13 @@ Check out the [Jekyll docs][jekyll-docs]{:target="_blank"} for more info on how 
 <br>
 **Titles with icon - Plugin Fa**
 
-## {% fa fa-table|20px %} Table
 
 First Header | Second Header
 ------------ | -------------
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
 
-## {% fa fa-list|20px %} List
+
 
 - [x] @mentions, #refs, [links](){:target="_blank"}, **formatting**, and <del>tags</del> supported
 - [x] list syntax required (any unordered or ordered list supported)
