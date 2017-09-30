@@ -115,8 +115,6 @@ function fancyAlert(arg) {
 
 To use, see:[Jekyll Spotify Plugin - Doc](http://williamcanin.com/jekyll-spotify-plugin){:target="_blank"}
 
-{% spotify spotify/track/62qsgMnY4wg8nE5qjyOdWO %}
-
 Goodbye! :wink:
 
 {% endpost #9D9D9D %}
