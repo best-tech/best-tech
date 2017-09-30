@@ -43,8 +43,6 @@ Check out the [Jekyll docs][jekyll-docs]{:target="_blank"} for more info on how 
 
 # Examples
 <br>
-**Titles with icon - Plugin Fa**
-
 
 First Header | Second Header
 ------------ | -------------
@@ -114,8 +112,6 @@ function fancyAlert(arg) {
 [jekyll-talk]: https://talk.jekyllrb.com/
 
 <br>
-
-## {% fa fa-music|20px %}  Music
 
 To use, see:[Jekyll Spotify Plugin - Doc](http://williamcanin.com/jekyll-spotify-plugin){:target="_blank"}
 
