@@ -88,11 +88,6 @@ Commodi eaque, temporibus quia praesentium dolores repellat minus corporis illo 
 <br>
 <br>
 
-{% label Ruby|10px %}
-{% label HTML5|20px %}
-{% label CSS3|30px %}
-{% label JQuery|40px %}
-
 <br>
 <br>
 
