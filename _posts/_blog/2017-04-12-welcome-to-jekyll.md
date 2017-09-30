@@ -74,7 +74,6 @@ Content in the first column | Content in the second column
 > We're living the future so
 > the present is our past.
 
-## {% fa fa-file-image-o|20px %} Image responsive (plugin Imager)
 
 {% imager typing_logotype.png|center %}
 
